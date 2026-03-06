@@ -3,6 +3,6 @@
 #include <stdlib.h>// rand 함수 사용을 위해
 #include <time.h> // clock() 함수 사용을 위해
 int main(void) {
-	printf("hello");
+	printf("helvvvv");
 	return 0;
 }
