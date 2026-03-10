@@ -1,0 +1,12 @@
+#include <stdio.h>
+#pragma warning(disable:4996)
+
+int main() {
+    char id[51];   // 최대 50글자 + 널문자
+
+    scanf("%s", id);
+
+    printf("%s??!", id);
+
+    return 0;
+}
